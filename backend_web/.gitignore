@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+nohup.out
+.idea/
+models/
+*.log

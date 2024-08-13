@@ -1,0 +1,1 @@
+Each map shows which locations are popular.

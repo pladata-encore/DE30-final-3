@@ -1,0 +1,6 @@
+[server]
+headless = true     # 서버 모드에서 브라우저가 자동으로 열리지 않음
+port = 8501         # 서버가 실행될 포트
+enableCORS = true   # 사용자가 다른 도메인에서 호스팅되는 리소스에 접근할 수 있도록 허용
+[server]
+enableStaticServing = true# Streamlit app에 정적 파일을 제공할 수 있도록 하며 이 옵션을 통해 다른 디렉토리의 static 파일을 서빙 가능

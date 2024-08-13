@@ -1,1 +1,3 @@
-# DE30-final-3
+# DE30 Team 3's Final project
+## Sorry! there's no README...
+## Instead, read our projectPR.pptx please! 😉
